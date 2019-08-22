@@ -1,0 +1,15 @@
+{
+    "copy"           : "WebsiteMarket", 
+    "email"          : "hello@websitemarket.ro",
+    "design"         : "Story by Pixelarity",
+
+    "seo_title"      : "Site Medical - Design Story | WebsiteMarket",
+    "seo_desc"       : "Website de prezentare rapid, cu un design modern. Un produs Websitemarket",
+
+    "product"        : "https://websitemarket.ro/", 
+    "github"         : "https://github.com/creare-site/site-medical-story",
+    "facebook"       : "https://facebook.com/websitemarketro",
+    "twitter"        : "https://twitter.com/websitemarketro",
+
+    "LAST_KEY" : "NA"
+}
